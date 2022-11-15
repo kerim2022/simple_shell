@@ -1,2 +1,1 @@
-0x16. C - Simple Shell
-by yemi 
+0x16. C - Simple Shell yemi 
